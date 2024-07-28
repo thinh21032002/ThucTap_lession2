@@ -1,0 +1,23 @@
+[33mcommit e2f50f04bd785ff4d5c4ed36777b84653975c3d1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: thinh21032002 <thinh0272@gmail.com>
+Date:   Mon Jul 22 08:31:23 2024 +0700
+
+    update
+
+[1mdiff --git a/img/Cr7.png b/img/Cr7.jpg[m
+[1msimilarity index 100%[m
+[1mrename from img/Cr7.png[m
+[1mrename to img/Cr7.jpg[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 2347cc9..c227d75 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -59,7 +59,7 @@[m
+ 		</div>[m
+ 	</div>[m
+ 	<div class="sep"></div>[m
+[31m-	<img class="gang-img" src="img/Cr7.png" width="735" height="399" alt="The Gang">[m
+[32m+[m	[32m<img class="gang-img" src="img/Cr7.jpg" width="735" height="399" alt="The Gang">[m
+ 	<footer>[m
+ 		<div class="wrapper">[m
+ 			Made by Rich from <a href="https://taptapkaboom.com">Tap Tap Kaboom</a>[m
